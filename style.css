@@ -1,0 +1,21 @@
+.bg-header{
+    background-color: #264653;
+}
+.bg-btn{
+    background-color: #E76F51;
+}
+.text-orange{
+    color: #E76F51;
+}
+.text-p{
+    color: #9598a0;
+}
+.header-h1{
+    font-size: 4rem;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.b-orange{
+    border-color: #E76F51;
+}
